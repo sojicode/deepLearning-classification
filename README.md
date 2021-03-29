@@ -1,4 +1,4 @@
-### DeepLearning - Classification
+## DeepLearning - Classification
 
 Use the **TensorFlow & Keras** and train my first neural network(`classification`) to learn how to use Keras to create and train a neural network model (in particular, a Multi-layer Feed- Forward network in this exercise).
 
